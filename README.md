@@ -23,5 +23,5 @@ This java programming application demonstrates the use of socket programming , m
 
 # OUTPUT
 
-
+![Image](https://github.com/user-attachments/assets/d4c1a59d-b1c1-484d-8fb1-abba379a416b)
 
